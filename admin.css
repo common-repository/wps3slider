@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.error ul { margin-left:25px; }
+div.error  ul li { list-style:disc; }
